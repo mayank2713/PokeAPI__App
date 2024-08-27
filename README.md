@@ -23,6 +23,4 @@ Charizard               |  Blastoise  |  Venusaur
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Image](/src/assets/screenshots/card.PNG?raw=true) | ![Image](/src/assets/screenshots/card-blastoise.PNG?raw=true) | ![Image](/src/assets/screenshots/card-venasaur.PNG?raw=true)
 
-## Demo
 
-You can see it deployed [here](https://onnichan.github.io/pokeapi-react/) 👈
