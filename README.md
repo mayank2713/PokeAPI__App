@@ -26,29 +26,3 @@ Charizard               |  Blastoise  |  Venusaur
 ## Demo
 
 You can see it deployed [here](https://onnichan.github.io/pokeapi-react/) 👈
-
-## Do you want to use or run this project locally?
-
-Just follow this steps:
-
-<ul>
-  <li>In your system console write </li>
-  
-  `git init`<br/>
-  `git clone https://github.com/Onnichan/pokeapi-react.git`
-
-  <li>Then you will have to type the following command, depending on what you have installed, npm or yarn.</li>
-  
-  `npm install`<br/>
-    or <br/>
-  `yarn install`
-  <li>and that's it! you can run it with the following command and view the application.</li>
-
-  `npm start`
-</ul>
-
-
-## Contact
-You can follow me on my [Linkedin](https://www.linkedin.com/in/walter-daniel-huaynapata-aguilar-391041197/).
-
-
